@@ -1,8 +1,7 @@
 # MathematicalModeling-SourceCode
 
-[^Original Hope]:一切源于热爱，趋于伟大.
 
-## For [^Original Hope]
+## 一切源于热爱，趋于伟大.
 
 ***
 ### 源码发布初衷
