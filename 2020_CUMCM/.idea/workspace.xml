@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ea3de73-6a19-494f-9e94-012351285ce6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gCtNOEDouVFvU4H6ab4hFlGBnz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AllWorkForIns\WorkForMath\MCM\2020_npmcm\MCM2020\data\A" />
+      <recent name="D:\AllWorkForIns\WorkForMath\MCM\2020_npmcm\data\2013\data" />
+      <recent name="D:\AllWorkForIns\WorkForMath\MCM\2020_npmcm\data\2017" />
+      <recent name="D:\AllWorkForIns\WorkForMath\MCM\2020_npmcm\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.lingmindu">
+    <configuration name="evaK2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_npmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MCM2020/A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MCM2020/A/evaK2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lingmindu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_npmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MCM2020/A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MCM2020/A/lingmindu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_npmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MCM2020/A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MCM2020/A/p2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_npmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MCM2020/A" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MCM2020/A/p4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="2020_npmcm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lingmindu" />
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.evaK2" />
+        <item itemvalue="Python.p4" />
+        <item itemvalue="Python.p2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea3de73-6a19-494f-9e94-012351285ce6" name="Default Changelist" comment="" />
+      <created>1597630360207</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597630360207</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599635685431">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1599635685431" />
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1600652260239">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1600652260239" />
+    <state width="1259" height="166" key="GridCell.Tab.0.bottom" timestamp="1599994397061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="171" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1599642628325" />
+    <state width="1259" height="166" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599994397061" />
+    <state width="1259" height="166" key="GridCell.Tab.0.center" timestamp="1599994397061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="171" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1599642628325" />
+    <state width="1259" height="166" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599994397061" />
+    <state width="1259" height="166" key="GridCell.Tab.0.left" timestamp="1599994397061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="171" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1599642628325" />
+    <state width="1259" height="166" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599994397061" />
+    <state width="1259" height="166" key="GridCell.Tab.0.right" timestamp="1599994397061">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="171" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1599642628325" />
+    <state width="1259" height="166" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599994397061" />
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom" timestamp="1597806452581">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1597806452581" />
+    <state width="1259" height="210" key="GridCell.Tab.1.center" timestamp="1597806452580">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1597806452580" />
+    <state width="1259" height="210" key="GridCell.Tab.1.left" timestamp="1597806452580">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1597806452580" />
+    <state width="1259" height="210" key="GridCell.Tab.1.right" timestamp="1597806452580">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="210" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1597806452580" />
+    <state x="141" y="2" key="SettingsEditor" timestamp="1599121593148">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="141" y="2" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599121593148" />
+    <state x="325" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1600652224377">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="325" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1600088809317" />
+    <state x="325" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1600652224377" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1599979429667">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1599979429667" />
+  </component>
+</project>
